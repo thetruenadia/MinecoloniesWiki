@@ -15,4 +15,4 @@ The compost barrel is used by the [Composter](../../source/workers/composter) to
 
 ## Using the Compost Barrel
 
-The compost barrel is primarily used by the Composter to make compost, but it can also be used by the player to do the same thing (right-click while holding a compostable item to raise the level of compost in the compost barrel). It can also be used as decoration.
+The compost barrel is primarily used by the Composter to make compost, but it can also be used by the player to do the same thing (right-click while holding a compostable item to raise the level of compost in the compost barrel).Once it’s full, ignore it for a while. When you see green sparkles, the compost is done and you can right click to empty the bin and add new stuff. It can also be used as decoration.
